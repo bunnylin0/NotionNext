@@ -21,9 +21,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '人生体验',
   HEO_HERO_TITLE_2: '与兴趣爱好',
   HEO_HERO_TITLE_3: 'BUNNYLIN.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_4: '观影有感',
+  HEO_HERO_TITLE_5: '《阿甘正传》观后感',
+  HEO_HERO_TITLE_LINK: 'https://blog.bunnylin.com/article/1ad2fbec-e365-80ed-b608-e4ccf133b4cf',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
